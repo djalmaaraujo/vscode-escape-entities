@@ -4,7 +4,7 @@ Escape HTML Entities for react to be compatible with `eslint-plugin-react/no-une
 
 ## Features
 
-![image](demo.gif)
+![image](https://github.com/djalmaaraujo/vscode-escape-entities/raw/master/demo.gif)
 
 Promp the command pallet and type `Escape Entities` with a text selected. It should replace with the correct unicode char.
 
