@@ -3,6 +3,7 @@
 	"displayName": "VS Code Escape Entities",
 	"description": "Escape HTML Entities for react to be compatible with eslint-plugin-react/no-unescaped-entities",
 	"version": "0.1.0",
+	"publisher": "djalmaaraujo",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
