@@ -1,4 +1,4 @@
-# Escape Entities for VS Code
+#  VS Code Escape Entities
 
 Escape HTML Entities for react to be compatible with eslint-plugin-react/no-unescaped-entities.
 
